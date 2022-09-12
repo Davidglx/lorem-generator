@@ -1,0 +1,12 @@
+export const text = [
+    `nstall csv to install the full csv module or run npm install csv-pare csv-parse package is a parser converting CSV text input into arrays or objects. It se if you are only interested by the CSV parser. Use the callback and sync APIs for simplicity or the stream based API for`
+    `Technical analysis also yields valuable trading data, but it results in different insights. TA  users believe they can predict future price movements based on the past performance of  assets. This is achieved by identifying candlestick patterns and stu`
+    ` trading data, but it results in different insights. TA  users believe they can predict future price movements bbelieve they can predict future price movements based on the past performance oased on the past performance of  assets. This is achieved by identifying candlestick patterns and stu`
+   `arse pacSV ll csv module or run npm install csv-pare csv-parse package is a parser converting CSV text input into arrays project.API -parse package is a parser converting CSV text input into arrays or objectkage is a parser co`
+    `The csv-parse package is a parser converting CSV text input into arrays or objects. It is part of the CSV project.API for convenience. It is both extremely easy to use and powerful. It was first released in 2010 and is used against big data sets by a large community.`
+   `Fundamental analysis (FA) is an approach used by investors to establish the "intrinsic value" of an asset or business. By looking at a number of internal and external factors, their main `
+    `v-parse pacSV project.API -parse package is a parser converting CSV text input into arrays or objectkage is a parser converting CSV text input into arrays or objects. It is part of the CSV proje`
+    `SV project.API -parse package is a parser converting CSV text input into arrays or objects. It is part of the CSV project.API forfor convenience. It is both extremely easy to use and powerful. It was first released in 2010 and is used against big data sets by a large community`
+    `if you are only converting CSV text input into arrays or objects. It is part of the CSV project.API for convenience. It interested by the CSV parser. Use the callback and sync APIs for simplicity or the stream based API for scalability`
+    `Run npm install csv to install the full csv module or run npm install csv-parse if you are only interested by the CSV parser. Use the callback and sync APIs for simplicity or the stream based API for scalability.`
+]

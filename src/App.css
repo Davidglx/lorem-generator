@@ -1,0 +1,86 @@
+.App{
+    padding: 30px;
+    font-family: cursive;
+    height: 100vh;
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: black;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+.arrow{
+    margin: 2rem;
+}
+
+h1{
+    font-size: 55px;
+    color: wheat;
+}
+h3{
+    font-size: 29px;
+    text-transform: uppercase;
+    color: yellow;
+    font-weight: bolder;
+}
+
+.modal{
+    margin-top: 5rem;
+    border: 2px solid yellow;
+    padding: 1rem;
+    border-radius: 0 20px;
+    font-family: cursive;
+}
+   
+label{
+    padding: 12px;
+    color: yellow;
+    font-weight: bolder;
+}
+
+input{
+    width: 49px;
+    height: 2.3rem;
+    border: yellow 3px solid;
+    border-radius: 7px;
+}
+
+select{
+    width: 55px;
+    height: 2.3rem;
+    border: yellow 3px solid;
+    border-radius: 7px;
+}
+
+.option{
+    font-family: cursive;
+    background-color: yellow;
+    color: aqua;
+    
+}
+
+button{
+ margin: 0.4rem;
+ width: 150px;
+ border-radius: 7px;
+ border: yellow 3px solid;
+height: 3rem;
+background-color: aqua;
+color: black;
+margin-left: 15px;
+font-family: curvise;
+font-size: 17px;
+}
+
+button:hover{
+    background-color: transparent;
+    color: wheat;
+}
+.now{
+    margin-left:230px;
+    margin-top: 19px;
+}
